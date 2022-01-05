@@ -2,9 +2,12 @@
 - 👀 I live in Vladivostok (Russia).
 - 🌱 I’m currently learning project management and programming (Delphi/Pascal, 1C scripts, SQL, etc.).
 
-My projects:
+My actual projects:
+===================
+SynHighlighter1C: https://github.com/Ta2i4/SynHighlighter1C
+
+No more supported projects:
 - BirEdit text editor: http://biredit.ta2i4.ru/
 - ADB GUI ToolKit: http://ta2i4.ru/projects/adbgtk/
-...and some other projects will be coming soon!
 
 My homepage: http://ta2i4.ru/
