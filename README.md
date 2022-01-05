@@ -5,5 +5,6 @@
 My projects:
 - BirEdit text editor: http://biredit.ta2i4.ru/
 - ADB GUI ToolKit: http://ta2i4.ru/projects/adbgtk/
+...and some other projects will be coming soon!
 
 My homepage: http://ta2i4.ru/
