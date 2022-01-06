@@ -13,5 +13,5 @@
 - [BirEdit text editor](http://biredit.ta2i4.ru/)
 
 
-### External links
+## External links
 [My homepage](http://ta2i4.ru/)
