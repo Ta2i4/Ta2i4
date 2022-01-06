@@ -7,7 +7,7 @@ Bio
 
 My actual projects:
 ===================
-[SynHighlighter1C](https://github.com/Ta2i4/SynHighlighter1C)
+[SynHighlighter1C](Ta2i4/SynHighlighter1C)
 
 
 No more supported projects:
