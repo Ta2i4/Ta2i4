@@ -5,15 +5,15 @@ Bio
 - 🌱 I’m currently learning project management and programming (Delphi/Pascal, 1C scripts, SQL, etc.).
 
 
-My actual projects:
+My projects on GitHub:
 ===================
-[SynHighlighter1C](https://github.com/Ta2i4/SynHighlighter1C)
+- [SynHighlighter1C](https://github.com/Ta2i4/SynHighlighter1C)
+- [ADB GUI ToolKit](https://github.com/Ta2i4/adb-gui-toolkit)
 
 
 No more supported projects:
 ===========================
 - [BirEdit text editor](http://biredit.ta2i4.ru/)
-- [ADB GUI ToolKit](http://ta2i4.ru/projects/adbgtk/)
 
 
 External links
