@@ -12,8 +12,8 @@ My actual projects:
 
 No more supported projects:
 ===========================
-[BirEdit text editor](http://biredit.ta2i4.ru/)
-[ADB GUI ToolKit](http://ta2i4.ru/projects/adbgtk/)
+- [BirEdit text editor](http://biredit.ta2i4.ru/)
+- [ADB GUI ToolKit](http://ta2i4.ru/projects/adbgtk/)
 
 
 External links
