@@ -5,8 +5,8 @@
 
 
 # My projects on GitHub:
-- [SynHighlighter1C](https://github.com/Ta2i4/SynHighlighter1C)
 - [ADB GUI ToolKit](https://github.com/Ta2i4/adb-gui-toolkit)
+- [SynHighlighter1C](https://github.com/Ta2i4/SynHighlighter1C)
 
 
 ## No more supported projects:
