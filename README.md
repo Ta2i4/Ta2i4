@@ -11,4 +11,4 @@
 
 
 ## External links
-- [My homepage](http://ta2i4.ru/)
+- [My homepage](https://ta2i4.ru/)
