@@ -1,7 +1,7 @@
 # Bio
 - 👋 Hi, I’m @Ta2i4 (Alexey Tatuyko).
 - 👀 I live in Vladivostok (:ru:).
-- 🌱 I’m currently learning project management and programming (Delphi/Pascal, OneScript, SQL/PostgreSQL/MSSQL, Metabase, etc.).
+- 🌱 I’m currently learning project management and programming (Delphi/Pascal, 1C Queries, SQL/PostgreSQL/MSSQL, Metabase, etc.).
 
 
 # My projects on GitHub:
