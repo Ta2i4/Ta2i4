@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Ta2i4)
+
 # Bio
 - 👋 Hi, I’m @Ta2i4 (Alexey Tatuyko).
 - 👀 I live in Vladivostok (:ru:).
@@ -5,5 +7,3 @@
 
 ## External links
 - [My homepage](https://ta2i4.ru/)
-
-![](https://komarev.com/ghpvc/?username=Ta2i4)
