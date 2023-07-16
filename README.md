@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Ta2i4)
+
 
 # Bio
 - 👋 Hi, I’m @Ta2i4 (Alexey Tatuyko).
@@ -7,3 +7,5 @@
 
 ## External links
 - [My homepage](https://ta2i4.ru/)
+
+![](https://komarev.com/ghpvc/?username=Ta2i4)
