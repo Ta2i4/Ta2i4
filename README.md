@@ -5,3 +5,5 @@
 
 ## External links
 - [My homepage](https://ta2i4.ru/)
+
+![](https://komarev.com/ghpvc/?username=Ta2i4)
